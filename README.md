@@ -1,4 +1,6 @@
-# Whaddup fools :wave:
+# Whaddup fools :wave: <img src="https://github.com/ajtruex/ajtruex/blob/master/assets/regboob-fixed.png" width="100" align="right"/>
+
+
 
 <div align="center">
   
