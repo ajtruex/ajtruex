@@ -1,5 +1,6 @@
 # Whaddup fools :wave: <img src="https://github.com/ajtruex/ajtruex/blob/master/assets/regboob-fixed.png" width="100" align="right"/>
 
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
 
 <div align="center">
