@@ -3,7 +3,7 @@
 # Hi, I'm Andrew Truex
 I'm a web developer with a focus on unique web experiences and products, preferably in the realm of movies, culture, and comedy.
 
-Checkout my [portfolio](https://andrewtruex.tech)
+Checkout my [portfolio](https://andrewtruex.com)
 
 </div>
 
