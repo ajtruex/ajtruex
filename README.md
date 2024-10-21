@@ -1,6 +1,9 @@
 <div align="center">
+  
+![memoji-mac](https://github.com/user-attachments/assets/b5f0427f-b622-4f8f-b2b5-295207a26ce7)
+# Hi, I'm Andrew Truex 
 
-# Hi, I'm Andrew Truex
+
 I'm a web developer with a focus on unique web experiences and products, preferably in the realm of movies, culture, and comedy.
 
 Checkout my [portfolio](https://andrewtruex.com)
@@ -17,9 +20,8 @@ Checkout my [portfolio](https://andrewtruex.com)
 
 <div align="center">  
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=andrewtruex&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
   
-[![Andrew Truex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajtruex&show_icons=true&theme=synthwave)](https://github.com/ajtruex)
+<!-- [![Andrew Truex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajtruex&show_icons=true&theme=synthwave)](https://github.com/ajtruex) -->
 
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ajtruex&repo=tailwindcss-and-nextjs-portfolio&theme=synthwave)](https://github.com/ajtruex/tailwindcss-and-nextjs-portfolio/)
